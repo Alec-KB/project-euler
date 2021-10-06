@@ -1,3 +1,5 @@
+package exercises;
+
 public class q0001 {
 
     public static void main(String[] args) {
